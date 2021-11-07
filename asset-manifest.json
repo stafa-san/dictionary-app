@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/dictionary-app/static/css/main.f227b17c.chunk.css",
-    "main.js": "/dictionary-app/static/js/main.62f0e3e1.chunk.js",
-    "main.js.map": "/dictionary-app/static/js/main.62f0e3e1.chunk.js.map",
+    "main.js": "/dictionary-app/static/js/main.f02a1ec9.chunk.js",
+    "main.js.map": "/dictionary-app/static/js/main.f02a1ec9.chunk.js.map",
     "runtime-main.js": "/dictionary-app/static/js/runtime-main.24a206aa.js",
     "runtime-main.js.map": "/dictionary-app/static/js/runtime-main.24a206aa.js.map",
     "static/js/2.4d27aabe.chunk.js": "/dictionary-app/static/js/2.4d27aabe.chunk.js",
     "static/js/2.4d27aabe.chunk.js.map": "/dictionary-app/static/js/2.4d27aabe.chunk.js.map",
     "index.html": "/dictionary-app/index.html",
+    "service-worker.js": "/dictionary-app/service-worker.js",
+    "service-worker.js.map": "/dictionary-app/service-worker.js.map",
     "static/css/main.f227b17c.chunk.css.map": "/dictionary-app/static/css/main.f227b17c.chunk.css.map",
     "static/js/2.4d27aabe.chunk.js.LICENSE.txt": "/dictionary-app/static/js/2.4d27aabe.chunk.js.LICENSE.txt"
   },
@@ -15,6 +17,6 @@
     "static/js/runtime-main.24a206aa.js",
     "static/js/2.4d27aabe.chunk.js",
     "static/css/main.f227b17c.chunk.css",
-    "static/js/main.62f0e3e1.chunk.js"
+    "static/js/main.f02a1ec9.chunk.js"
   ]
 }
